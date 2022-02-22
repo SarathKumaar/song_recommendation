@@ -1,0 +1,6 @@
+
+Twitter_Consumer_Key = "awGM7ojvAoDqvyhYShBOTniex"
+Twitter_Consumer_Secret = "I8wLdP5cDqG8HKj1LCXgEyEWbT1AGLOioazIrfsuO3vu7UGoW7"
+Twitter_Access_Token = "1494117830077616128-0PL0pEEjBkHuuVAgBigBUxAv5C1ez5"
+Twitter_Access_Token_Secret = "98FA87lASZxYzhrs4AyP0JyttcPIz1LjHqRuZViQUUYZn"
+

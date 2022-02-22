@@ -1,0 +1,7 @@
+streamlit~=1.5.1
+pandas~=1.4.1
+plotly~=5.6.0
+sklearn~=0.0
+scikit-learn~=1.0.2
+tweepy~=4.5.0
+ipython~=8.0.1
